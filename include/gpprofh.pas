@@ -29,6 +29,8 @@ const
   PR_DIGCALLG    = 23;
   PR_START_THREADINFO = 24;
   PR_END_THREADINFO = 25;
+  PR_ENTER_MP   =  26;
+  PR_EXIT_MP    =  27;
   PR_DIGENDCG    = -1;
 
 
